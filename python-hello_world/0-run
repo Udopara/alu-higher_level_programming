@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+#This is my first python file
+
+PYFILE = "Python"
+print ("$PYFILE")
